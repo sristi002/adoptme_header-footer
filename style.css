@@ -18,7 +18,7 @@ header{
 nav {
   width: 100%;
   height: 80px;
-  background: url('your-image.jpg') no-repeat;
+  background: url('footprint.jpg') no-repeat;
   background-size: cover;
   color: black;
   display: flex;
