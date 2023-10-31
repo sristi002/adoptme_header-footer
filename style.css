@@ -13,21 +13,26 @@ header{
 	position: relative;
 	background-attachment: fixed;
 }
-nav{
-	width: 100%;
-	height:80px;
-	background: white;
-	color: black;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding: 0px 80px;
-	position:fixed;
-	top:0;
-	background:white;
-	z-index: 1;
-	border-bottom: 1px solid rgba(0,0,0,0.2);
+
+	/* navigation */
+nav {
+  width: 100%;
+  height: 80px;
+  background: url('your-image.jpg') no-repeat;
+  background-size: cover;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 80px;
+  position: fixed;
+  top: 0;
+  background-color: white;
+  z-index: 1;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
+
+
 .logo{
 	font-family: sans-serif;
 	font-size:2.5em;
