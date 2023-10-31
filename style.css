@@ -7,7 +7,7 @@ body{
 header{
 	width: 100vw;
 	height:90vh;
-	background:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url('dog.jpg');
+	background:white;
 	background-size: cover;
 	background-position:;
 	position: relative;
